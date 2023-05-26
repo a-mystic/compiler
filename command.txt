@@ -1,2 +1,0 @@
-win_flex --wincompat -o cbu2lex.c cbu2.l
-win_bison -o cbu2.c -d cbu2.y
