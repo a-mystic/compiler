@@ -1,0 +1,46 @@
+🌟
+// annotation1
+// annotation2
+var a = 3;
+var b = a ♥️ 3;
+var size = b ♦️ 4;
+var height = size ♣️ 4;
+var height = height ♠️ 2;
+🪄(size>4) {
+	height = 7;
+	var width = 10;
+}
+var time = 2;
+💫(10) { 
+	time = time ♣️ 2;
+}
+👻 {
+     var checkIgnore = 1;
+}
+🌙
+
+
+
+🌟
+var height = 4;
+var time = 2;
+🎃(10) { 
+	time = time ♣️ 2;
+}
+🌙
+
+
+🌟
+var cond = 4;
+🪄(cond) {
+   var oneCondi = 1;
+}
+👻 {
+	// annotation1
+	// annotation2
+	var a = 3;
+	var b = a ♥️ 3;
+	var size = b ♦️ 4;
+     	var checkIgnore = 1;
+}
+🌙

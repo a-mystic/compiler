@@ -1,0 +1,5 @@
+Start
+가:=3;
+나:=7;
+Size:= 나 Plus 가 Minus 1;
+End
